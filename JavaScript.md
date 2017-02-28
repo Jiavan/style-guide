@@ -1,5 +1,6 @@
 ## JavaScript Code Style Guide
 <a name="top"></a>
+
 0. [基本编码风格](#基本编码风格)
 	- [缩进](#缩进)
 	- [空格与换行](#空格与换行)

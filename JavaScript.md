@@ -187,7 +187,7 @@ var TestState = {
 **[⬆ back to top](#top)**
 <a name="分号"></a>
 #### 1.4 分号
-**强制**所有语句、函数表达式后面必须加分号，IIFE(immediately invoked function expressions)格式模块前后必须加一个分号。
+**强制**所有语句、函数表达式后面必须加分号，IIFE(immediately invoked function expressions)格式模块前后必须加一个分号[#1](https://github.com/Jiavan/style-guide/issues/1)。
 
 ```javascript
 // bad

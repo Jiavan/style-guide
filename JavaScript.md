@@ -19,9 +19,9 @@
 <a name="基本编码风格"></a>
 ### 1 基本编码风格
 
-<a name="基本编码风格"></a>
+<a name="缩进"></a>
 #### 1.1 缩进
-**建议** 使用一个Tab进行缩进，根据自己的编码习惯设置IDE/Text Editor indent => `tabsize = 4/2 whitespace`，这样无论是2空格缩进还是4空格都能保持一致。
+**建议** 使用一个Tab进行缩进，根据自己的编码习惯设置IDE/Text Editor indent => `tabsize = 4/2 whitespace`，这样无论是2空格缩进还是4空格都能保持一致 [#2](https://github.com/Jiavan/style-guide/issues/2)。
 
 ```javascript
 // bad

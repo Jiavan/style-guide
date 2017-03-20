@@ -10,7 +10,6 @@
 	- [引号](#引号)
 	- [变量](#变量)
 	- [比较](#比较)
-
 1. [Objects](#objects)
 2. [Arrays](#arrays)
 3. [Functions](#functions)
@@ -20,6 +19,7 @@
 <a name="基本编码风格"></a>
 ### 1 基本编码风格
 
+<a name="基本编码风格"></a>
 #### 1.1 缩进
 **建议** 使用一个Tab进行缩进，根据自己的编码习惯设置IDE/Text Editor indent => `tabsize = 4/2 whitespace`，这样无论是2空格缩进还是4空格都能保持一致。
 
@@ -273,7 +273,7 @@ var age;
 var email;
 ```
 **[⬆ back to top](#top)**
-<a name="比较操作"></a>
+<a name="比较"></a>
 #### 1.8 比较操作
 **强制** 使用`===``!==`来进行比较而不是`==``!=`。
 

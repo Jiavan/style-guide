@@ -256,7 +256,7 @@ var a = 1;
 window.b = 2;
 ```
 
-**建议** 都使用var来声明一个变量。
+**建议** 都使用var来声明一个变量[#3](https://github.com/Jiavan/style-guide/issues/3)。
 
 ```javascript
 // bad

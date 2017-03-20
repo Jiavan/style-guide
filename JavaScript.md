@@ -1,7 +1,7 @@
 ## JavaScript Code Style Guide
 <a name="top"></a>
 
-0. [基本编码风格](#基本编码风格)
+1. [基本编码风格](#基本编码风格)
 	- [缩进](#缩进)
 	- [空格与换行](#空格与换行)
 	- [命名](#命名)
@@ -10,11 +10,11 @@
 	- [引号](#引号)
 	- [变量](#变量)
 	- [比较](#比较)
-1. [Objects](#objects)
-2. [Arrays](#arrays)
-3. [Functions](#functions)
-4. [Class](#class)
-5. [jQuery](#jquery)
+2. [Objects](#objects)
+3. [Arrays](#arrays)
+4. [Functions](#functions)
+5. [Class](#class)
+6. [jQuery](#jquery)
 
 <a name="基本编码风格"></a>
 ### 1 基本编码风格
@@ -256,7 +256,7 @@ var a = 1;
 window.b = 2;
 ```
 
-**建议** 都使用var来声明一个变量。
+**建议** 都使用var来声明一个变量[#3](https://github.com/Jiavan/style-guide/issues/3)。
 
 ```javascript
 // bad

@@ -10,7 +10,7 @@
 	- [引号](#引号)
 	- [变量](#变量)
 	- [比较](#比较)
-	
+
 1. [Objects](#objects)
 2. [Arrays](#arrays)
 3. [Functions](#functions)
@@ -53,7 +53,7 @@ var a = !z;
 
 ```javascript
 // bad
-if(condition){} 
+if(condition){}
 
 // good
 if (condition) {}
@@ -126,7 +126,7 @@ function getDataset(el) {
 	if (el === undefined) {
 		return;
 	}
-	
+
 	// logic
 }
 ```
@@ -363,7 +363,7 @@ if (flag) {
 **建议**函数表达式后面跟上函数名，这会有利于调试bug。
 
 ```javascript
-// bad 
+// bad
 var foo = function() {};
 
 // good
